@@ -23,9 +23,10 @@ img {
 html {
   /* rem 적용 */
   font-size: 10px;
-
 }
-html.active{overflow: hidden;}  
+html.active {
+  overflow: hidden;
+}
 
 body {
   height: 2000px;
@@ -42,4 +43,13 @@ body {
 .wrap {
   position: relative;
   display: block;
+}
+
+/* 공통영역 */
+
+.inner {
+  display: block;
+  width: 100%;
+  max-width: 1420px;
+  margin: 0 auto;
 }

@@ -3,6 +3,9 @@
 @import url("font.css");
 @import url("header.css");
 @import url("visual.css");
+@import url("service.css");
+@import url("about.css");
+@import url("business.css");
 * {
   margin: 0;
   padding: 0;
